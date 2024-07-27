@@ -1,6 +1,10 @@
 # Image-Enhancement
 
-Command prompt: If you want to run in Cmd of your pc (system must contain Nvidia graphic card)
+• This project enhances the degraded photographs by enhancing the pixels in the image, low quality images
+are transformed into high resolution images.
+• Technologies used HTML, CSS, Streamlit and Python.
+
+# Command prompt: If you want to run in Cmd of your pc (system must contain Nvidia graphic card)
 
 # Installation:
 Simply run the command pip install -r requirements.txt to install the dependencies in cmd.
