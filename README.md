@@ -57,3 +57,5 @@ This command gives url like (https://full-jobs-hope.loca.lt) as output open the 
 # In case of Training:
 Download the data set like Div2k which consists of Low resolution and High resolution folders with their respective image.
 Due to the large size of the data set. It is not included in this storage.
+
+# The project code is in master branch.
